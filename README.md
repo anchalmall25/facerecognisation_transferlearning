@@ -1,1 +1,7 @@
 # facerecognisation_transferlearning
+Here is the code of face recognistaion using transfer learning method .Can Use any of the Architectures like ResNet, VGG, Inception, MobileNet etc.I used VGG16 for this.
+# Transfer Learning
+In transfer learning, we first train a base network on a base dataset and task, and then we repurpose the learned features, or transfer them, to a second target network to be trained on a target dataset and task. This process will tend to work if the features are general, meaning suitable to both base and target tasks, instead of specific to the base task.
+
+# VGG16
+VGG16 is a convolutional neural network model proposed by K. ... Zisserman from the University of Oxford in the paper “Very Deep Convolutional Networks for Large-Scale Image Recognition”. The model achieves 92.7% top-5 test accuracy in ImageNet, which is a dataset of over 14 million images belonging to 1000 classes.
