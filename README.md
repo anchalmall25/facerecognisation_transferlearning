@@ -8,4 +8,5 @@ VGG16 is a convolutional neural network model proposed by K. ... Zisserman from 
 VGG16 is a convolution neural net (CNN ) architecture which was used to win ILSVR(Imagenet) competition in 2014. It is considered to be one of the excellent vision model architecture till date.
 
 For information go thorugh my linkdin article
+
 Link:-https://www.linkedin.com/pulse/transfer-learning-anchal-mall/?trackingId=QZay905%2BAQeCCyp3vVkRLw%3D%3D
