@@ -69,7 +69,7 @@ def addTopModel(bottom_model, num_classes):
     
     model.layers
     
- from keras.models import Sequential
+from keras.models import Sequential
 from keras.layers import Dense, Dropout, Activation, Flatten, GlobalAveragePooling2D
 from keras.layers import Conv2D, MaxPooling2D, ZeroPadding2D
 from keras.layers.normalization import BatchNormalization
